@@ -1,0 +1,11 @@
+Y:\Общая для записи студентам\207a 2022-2023\Малышев\1\ПР\ПР4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+Y:\Общая для записи студентам\207a 2022-2023\Малышев\1\ПР\ПР4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+Y:\Общая для записи студентам\207a 2022-2023\Малышев\1\ПР\ПР4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+Y:\Общая для записи студентам\207a 2022-2023\Малышев\1\ПР\ПР4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+Y:\Общая для записи студентам\207a 2022-2023\Малышев\1\ПР\ПР4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+Y:\Общая для записи студентам\207a 2022-2023\Малышев\1\ПР\ПР4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+Y:\Общая для записи студентам\207a 2022-2023\Малышев\1\ПР\ПР4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ScreenShot.resources
+Y:\Общая для записи студентам\207a 2022-2023\Малышев\1\ПР\ПР4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+Y:\Общая для записи студентам\207a 2022-2023\Малышев\1\ПР\ПР4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+Y:\Общая для записи студентам\207a 2022-2023\Малышев\1\ПР\ПР4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+Y:\Общая для записи студентам\207a 2022-2023\Малышев\1\ПР\ПР4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
